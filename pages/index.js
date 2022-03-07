@@ -11,6 +11,7 @@ const Home = (props) => {
         <Head>
           <title>The Unreal 13</title>
           <meta property="og:title" content="The Unreal 13" />
+    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/0a105cf79c749e4b9e9aaa7b9/3c04ee9f1f28ab9ba2eac68c5.js");</script>
         </Head>
         <header id="navbar" data-role="Header" className="header">
           <Link href="/">
